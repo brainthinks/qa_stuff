@@ -1,5 +1,7 @@
 # QA Curriculum <!-- omit in toc -->
 
+A curriculum derived from [https://www.youtube.com/watch?v=rcaWHZb5kVo](https://www.youtube.com/watch?v=rcaWHZb5kVo)
+
 ## Table of Contents <!-- omit in toc -->
 
 - [Test / Development Environment](#test--development-environment)
